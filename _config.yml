@@ -23,12 +23,12 @@ email: crouska@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Static place for me to keep static stuff.
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'static.rizowski.dev' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'rizowski.dev' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
 github_username: rizowski
 
 # Build settings
-theme: minima
+# theme: minima
 include:
   - '.well-known'
 # Exclude from processing.
