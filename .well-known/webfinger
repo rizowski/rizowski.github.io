@@ -1,0 +1,23 @@
+{
+  "subject": "acct:rizowski@techhub.social",
+  "aliases": [
+    "https://techhub.social/@rizowski",
+    "https://techhub.social/users/rizowski"
+  ],
+  "links": [
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://techhub.social/@rizowski"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://techhub.social/users/rizowski"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://techhub.social/authorize_interaction?uri={uri}"
+    }
+  ]
+}
